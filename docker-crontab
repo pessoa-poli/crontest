@@ -1,0 +1,2 @@
+* * * * * python3 /crontest.py
+#This line makes this a valid cronjob
